@@ -1,5 +1,5 @@
 # Distributed Web Infrastructure
-![Distributed Web Infrastructure](whiteboard\1-distributed_web_infrastructure.png)
+
 This project demonstrates a distributed web infrastructure that hosts `www.foobar.com` using three servers: one load balancer and two additional servers.
 
 ## Infrastructure Components
