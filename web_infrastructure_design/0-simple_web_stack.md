@@ -1,5 +1,5 @@
 # Simple Web Stack
-![Simple Web Stacl](./whiteboard/0-simple_web_stack.png)
+
 This project demonstrates a simple web infrastructure that hosts `www.foobar.com` on a single server.
 
 ## Infrastructure Components
