@@ -1,5 +1,6 @@
 # Simple Web Stack
-![Simple Web Stack](whiteboard\0-simple_web_stack.png)
+![Simple Web Stack](holbertonschool-system_engineering-devops/whiteboard
+/0-simple_web_stack.png)
 This project demonstrates a simple web infrastructure that hosts `www.foobar.com` on a single server.
 
 ## Infrastructure Components
